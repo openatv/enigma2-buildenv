@@ -57,6 +57,7 @@ RUN apt-get update && \
         pkg-config \
         wget \
         curl \
+        unzip \
         ca-certificates
 
 # Set gcc-14 and g++-14 as default
